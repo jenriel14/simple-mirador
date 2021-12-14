@@ -2,5 +2,5 @@ https://data.ng-london.org.uk/0FNR-0001-0000-0000.iiif
 https://manifests.collections.yale.edu/ycba/obj/34
 https://iiif.harvardartmuseums.org/manifests/object/299843
 https://media.nga.gov/public/manifests/nga_highlights.json
-https://data.ng-london.org.uk/resource/00C-022B-0000
+https://data.ng-london.org.uk/resource/00C-022B-0000.iiif
 https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mc/53/t1mc534fp00h/manifest
